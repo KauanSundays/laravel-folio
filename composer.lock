@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8d44dc2ab1e316820ad6a75095fb7e59",
+    "content-hash": "79b9a578d7cdbcfe266d4a02fb5d472d",
     "packages": [
         {
             "name": "brick/math",
@@ -976,16 +976,16 @@
         },
         {
             "name": "laravel/folio",
-            "version": "v1.0.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/folio.git",
-                "reference": "e3ca1bf727f009ef8cc4810a43c0beacdcb5f0dd"
+                "reference": "765b765802a78a9e57f00ddefd540aebf7ec13d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/folio/zipball/e3ca1bf727f009ef8cc4810a43c0beacdcb5f0dd",
-                "reference": "e3ca1bf727f009ef8cc4810a43c0beacdcb5f0dd",
+                "url": "https://api.github.com/repos/laravel/folio/zipball/765b765802a78a9e57f00ddefd540aebf7ec13d6",
+                "reference": "765b765802a78a9e57f00ddefd540aebf7ec13d6",
                 "shasum": ""
             },
             "require": {
@@ -1044,7 +1044,7 @@
                 "issues": "https://github.com/laravel/folio/issues",
                 "source": "https://github.com/laravel/folio"
             },
-            "time": "2023-08-23T16:48:41+00:00"
+            "time": "2023-09-08T15:51:07+00:00"
         },
         {
             "name": "laravel/framework",
@@ -9022,9 +9022,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "laravel/folio": 10
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
