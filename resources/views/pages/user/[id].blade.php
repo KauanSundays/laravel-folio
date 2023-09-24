@@ -9,5 +9,7 @@
         <h1>user.id</h1>
         <h2>{{ $id }}</h2>
         teste
+        agora
+        
     </div>
 </x-layout.app>
