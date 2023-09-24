@@ -8,6 +8,6 @@
     <div>
         <h1>user.id</h1>
         <h2>{{ $id }}</h2>
-        Lamar
+        teste
     </div>
 </x-layout.app>
